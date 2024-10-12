@@ -50,3 +50,13 @@ def Rango(numero):
 print("Verificar si el numero esta en el rango")
 numero =int(input("ingresa el numero: "))
 Rango(numero)
+
+def Numeros(numero):
+    if numero > 0:
+        print("es positivo")
+    else:
+        print("es negativo")
+
+print("Verificar si el numero es positivo o negativo")
+numero =int(input("ingresa el numero: "))
+Numeros(numero)
