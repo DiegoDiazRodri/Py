@@ -6,7 +6,6 @@ Descripción: Crea un programa que pida al usuario un número y verifique si es 
 Determinar si un estudiante aprobó o no
 Descripción: Crea un programa que pida la calificación de un estudiante y determine si ha aprobado (60 o más) o no.
 
-
 Nivel intermedio:
 Comprobar si un número es par o impar
 Descripción: Crea un programa que pida al usuario un número y determine si es par o impar.
